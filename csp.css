@@ -1,0 +1,407 @@
+#anonymousLoginScreen .btn-custom {
+    color: #000000 !important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #000000;
+    border-color: #fffffe;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #fff;
+    background-color: #3c3c3c; 
+    border-color: #fffffe;
+}
+.btn.active .caret {
+    bottom: -11px;
+    position: absolute;
+    color: #8b0000 !important;
+    left: 41%;
+    display: block !important;
+    border-top-color: #8b0000 !important;
+    border-bottom-color: #8b0000 !important;
+    border-top-width: 10px;
+    border-right-width: 10px;
+    border-left-width: 10px;
+}
+h1 a {
+    color: #000000 !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    font-size: 40pt;
+}
+h1 a:hover {
+    color: #3c3c3c !important;
+    text-decoration: none !important;
+    font-weight: bold;
+    font-size: 40pt;
+}
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid #ccc;
+    border-radius: 4px 4px 0 0;
+    color: #000000 !important;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #fffffe !important;
+    cursor: default;
+    background-color: #000000;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+.service-groups a.fsservice-pretty-link.active {
+    border: 1px #000000 solid !important;
+    background-color: #000000 !important;
+    color: #fffffe !important;
+}
+.service-groups a.fsservice-pretty-link.active:hover {
+    border: 1px #999 solid;
+    padding: 8px;
+    border-radius: 4px;
+    display: block;
+    color: #000000 !important;
+    background-color: #fff !important;
+    text-decoration: none;
+}
+.service-groups a.fsservice-pretty-link:hover {
+    border: 1px #999 solid;
+    padding: 8px;
+    border-radius: 4px;
+    display: block;
+    color: #000000;
+    background-color: #fff !important;
+    text-decoration: none;
+}
+h3.serviceColumnLetter {
+    margin-top: 10px !important;
+}
+.form-link-color {
+    background-color: #006400;
+  box-shadow: 0 2px 2px #014c01;
+  color: white;
+  padding: 0.5em 0.5em;
+  line-height: 3
+}
+
+.form-link-color:hover {
+  background-color: #000000;
+  cursor: pointer;
+}
+
+.form-link-color:active {
+  box-shadow: none;
+  top: 2px;
+}
+
+.btn-success, .btn-success:hover {
+    color: #fffffe;
+    background-color: #000000;
+    border-color: #000000;
+}
+.btn-info, .btn-info:hover {
+    color: #fffffe;
+    background-color: #000000;
+    border-color: #000000;
+    width: 80px;
+}
+input[type=radio]:disabled:checked+label:before {
+    background-color: #3c3c3c;
+}
+input[type=checkbox]:disabled:checked+label:before {
+    background-color: #3c3c3c;
+}
+a {
+    color: #191970;
+  text-decoration: none !important;
+  font-weight: bold;
+}
+a:hover {
+    color: #191970;
+  text-decoration: none !important;
+  font-weight: normal;
+}
+body {
+    background-color: #fffffe;
+}
+div#page {
+    background-color: #fffffe;
+}
+.achieveforms-container .sectionsHead .sectionsHeadInner.collapse {
+    visibility: visible;
+    background-color: #fffffe;
+}
+.checkbox-label.btn:hover {
+    background-color: #006400 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.checkbox-label.btn:active {
+    background-color: #006400 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.checkbox-label.btn {
+    background-color: #000000 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.checkbox-label.btn:hover {
+    background-color: #000000 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.checkbox-label.btn:active {
+    background-color: #000000 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+.checkbox-label.btn {
+    background-color: #006400 !important;
+    color: #fffffe !important;
+    box-shadow: 0 1px 2px rgba(0,0,0,.2);
+    text-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
+body._AF, div._AF, html._AF {
+    background: #fffffe;
+}
+.btn-default {
+    color: #fffffe !important;
+    background-color: #000000;
+}
+.btn-default[disabled] {
+    color: #fffffe !important;
+    background-color: #000000;
+}
+.btn-default:hover {
+    color: #fffffe !important;
+    background-color: #3c3c3c;
+}
+.btn-default:active {
+    color: #fffffe !important;
+    background-color: #3c3c3c;
+}
+.btn.btn-af {
+    color: #fffffe !important;
+    background-color: #000000;
+}
+.btn.btn-af:hover {
+    color: #fffffe !important;
+    background-color: #3c3c3c;
+}
+.btn.btn-af:active {
+    color: #fffffe !important;
+    background-color: #3c3c3c;
+}
+.achieveforms-container .all-sections .field .fieldContent fieldset.fieldInput .checkbox-wrapper label.disabled, .achieveforms-container .all-sections .field .fieldContent fieldset.fieldInput .radio-wrapper label.disabled {
+    color: #fffffe !important;
+}
+.col-md-4 {
+    text-align: right !important;
+  max-height: 200px;
+}
+.col-md-offset-4 {
+    text-align: center !important;
+}
+.ratingStarPanel {
+    text-align: center !important;
+}
+.skipRatingStep {
+    margin-right: 10px !important;
+}
+.btn-success:hover {
+    background-color: #006400 !important;
+    border-color: #006400 !important;
+}
+.embed-container { 
+	position: relative !important; 
+	padding-bottom: 56.25% !important; 
+	padding-top: 30px; 
+	height: 0 !important; 
+	overflow: hidden !important; 
+} 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+	position: absolute !important; 
+	top: 0 !important; 
+	left: 0 !important; 
+	width: 100% !important; 
+	height: 100% !important; 
+}
+.self-app-iframe {
+	max-width: 1100px !important;
+}
+h2, .h2 {
+    font-weight: bold !important;
+}
+.jumbotron p {
+    font-weight: bold !important;
+}
+* {
+box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.videos {
+float: left;
+width: 50%;
+padding: 2%
+}
+/* Clear floats after the columns */
+.videorow:after {
+content: "";
+display: table;
+clear: both;
+}
+@media only screen and (max-width:700px) {
+/* For mobile phones: */
+.videos {
+	width:100% !important;
+}
+}
+@media only screen and (max-width:600px) {
+/* For mobile phones: */
+.videos {
+	width:100% !important;
+}
+}
+@media only screen and (max-width:414px) {
+/* For mobile phones: */
+.videos {
+	width:100% !important;
+}
+}
+@media only screen and (max-width:300px) {
+/* For mobile phones: */
+.videos {
+	width:100% !important;
+}
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 90%;
+    box-shadow: 3px 3px 4px 0px rgb(0, 0, 0, 0.2);
+}
+.lead {
+    font-weight: 400 !important;
+}
+.responsive-home-button {
+	position: relative;
+  	width: 100%;
+  	max-width: 300px !important;
+	min-width: 100px !important;
+	height: auto;
+  padding-bottom: 20px;
+  }
+
+.responsive-home-button:hover {
+	position: relative;
+  	width: 100%;
+  	max-width: 280px !important;
+	min-width: 100px !important;
+	height: auto;
+  }
+
+a:focus  .responsive-home-button {
+	opacity: 50%;
+}
+
+/* Create three equal columns that floats next to each other */
+.home-buttons {
+float: left;
+width: 25%;
+padding: 2%
+  background-color: #fffffe !important;
+}
+/* Clear floats after the columns */
+.buttonrow:after {
+content: "";
+display: table;
+clear: both;
+}
+@media only screen and (max-width:700px) {
+/* For mobile phones: */
+.home-buttons {
+	width:50% !important;
+}
+}
+@media only screen and (max-width:600px) {
+/* For mobile phones: */
+.home-buttons {
+	width:50% !important;
+}
+}
+@media only screen and (max-width:414px) {
+/* For mobile phones: */
+.home-buttons {
+	width:100% !important;
+}
+}
+@media only screen and (max-width:300px) {
+/* For mobile phones: */
+.home-buttons {
+	width:100% !important;
+}
+}
+.home-text {
+    font-size: 125% !important;
+  margin: 0 0 20px !important;
+}
+
+/* Added by HJ 15/04/24 */
+
+.MyOrkney {
+width: 30vh;
+  height:5vh;
+        background: url("https://www.orkney.gov.uk/media/eknd2ipi/myorkney.webp") no-repeat;
+  background-size: contain;
+  transition-duration: 0.5s;
+}
+
+.MyOrkney:hover {
+/*width: 25vh;
+  height:5vh;*/
+        background: url("https://www.orkney.gov.uk/media/n30a1log/myorkney-hover.webp") no-repeat;
+  background-size: contain;
+  transition-duration: 0.5s;
+}
+
+.brand-image{
+max-height: 200px !important;
+}
+
+body{
+background-color: #fffffe !important;
+}
+
+
+.buttonrow{
+padding-top:10px;
+  padding-bottom:10px;
+}
+
+.bottomrow{
+display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Added by HJ 21/08/24 */
+
+.dash{
+    width: 30vh;
+      height:5vh;
+            background: url("https://www.orkney.gov.uk/media/ianpe1dl/asset-1-2x.webp") no-repeat;
+      background-size: contain;
+        }
